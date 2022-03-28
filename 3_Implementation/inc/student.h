@@ -1,11 +1,9 @@
 /**
  * @file student.h
- * @author Vinay B C (https://github.com/vinaybc)
+ * @author Vinay B C (https://github.com/Krishuk)
  * @brief 
  * @version 0.1
- * @date 2021-04-15
- * 
- * @copyright Copyright (c) 2021
+ * @date 2022-03-27
  * 
  */
 #ifndef _STUDENT_H_

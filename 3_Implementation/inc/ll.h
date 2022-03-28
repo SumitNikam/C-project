@@ -1,11 +1,9 @@
 /**
  * @file ll.h
- * @author Vinay B C (https://github.com/vinaybc)
+ * @author Vinay B C (https://github.com/Krishuk)
  * @brief This program is for student exam management
  * @version 0.1
- * @date 2021-04-15
- * 
- * @copyright Copyright (c) 2021
+ * @date 2022-03-27
  * 
  */
 #include "student.h"

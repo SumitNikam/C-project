@@ -1,9 +1,9 @@
 /**
  * @file ll.h
- * @author Vinay B C (https://github.com/Krishuk)
+ * @author Krushna Nikam (https://github.com/Krishuk)
  * @brief This program is for student exam management
  * @version 0.1
- * @date 2022-03-27
+ * @date 2022-03-28
  * 
  */
 #include "student.h"

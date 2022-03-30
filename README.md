@@ -23,7 +23,7 @@ A Simple Software for Examination Management System that can perform the followi
 |6_imagesAndVideos|Project output and videos|
 
 ## Contributors List and Summary
-|PS No.|Name    |Features   |Issues Raised|Issues Solved  |No of Test Cases| Test Case Passed|
-|:----|:-------|:----------|:------------|:---------------|:----------------|:---------------|
-|259913|Krushna Nikam|All|0|0|6|6|
+|Name    |Features   |Issues Raised|Issues Solved  |No of Test Cases| Test Case Passed|
+|:-------|:----------|:------------|:---------------|:----------------|:---------------|
+|Krushna Nikam|All|0|0|6|6|
 

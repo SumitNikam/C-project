@@ -9,7 +9,7 @@ Architecture Design
 ## Low level design 
 ### State diagram 
 Few changes to be done
-![2021-04-15 (2)](https://user-images.githubusercontent.com/65846052/114812864-824f7000-9dce-11eb-86be-1b5722243efb.png)
+![2022-03-27](https://user-images.githubusercontent.com/65846052/114812864-824f7000-9dce-11eb-86be-1b5722243efb.png)
 
 
 ![Untitled Workspace](https://user-images.githubusercontent.com/65846052/114727821-2946f400-9d5c-11eb-992c-21ce3271dcee.png)

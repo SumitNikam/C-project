@@ -1,5 +1,5 @@
 # LTTS-Mini-Project
-L&amp;T Technology Services Mini-Project (STEPIN_2022)
+L&amp;T Technology Services Mini-Project (STEPIN_M1_March_2022)
 
 # Examination Management System
 ![image](https://user-images.githubusercontent.com/65846052/114353231-68bde680-9b8a-11eb-9c79-d00e7f4b3a9f.png)

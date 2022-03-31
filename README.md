@@ -27,3 +27,4 @@ A Simple Software for Examination Management System that can perform the followi
 |:-------|:----------|:------------|:---------------|:----------------|:---------------|
 |Krushna Nikam|All|0|0|6|6|
 
+![image 1](https://api.codiga.io/project/32265/score/svg) ![image 2](https://api.codiga.io/project/32265/status/svg)
